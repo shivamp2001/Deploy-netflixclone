@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "backend deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivamp2001/Deploy-netflixclone.git"
+  },
+  "author": "shivam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivamp2001/Deploy-netflixclone/issues"
+  },
+  "homepage": "https://github.com/shivamp2001/Deploy-netflixclone#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1"
+  }
+}
